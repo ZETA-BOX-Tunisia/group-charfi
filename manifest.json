@@ -1,6 +1,6 @@
 {
-    "name": "zeta_huilerie",
-    "short_name": "zeta_huilerie",
+    "name": "Huilerie ERP",
+    "short_name": "Huilerie ERP",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

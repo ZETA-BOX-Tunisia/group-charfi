@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "6dfb920b9d4eb096447aa5d514bbb5cc",
+  "assets/AssetManifest.json": "37cb6d99661d2c58f4abb9e3284575f8",
 "assets/assets/fonts/NotoSansArabic/NotoSansArabic-Regular.ttf": "75527903c6a793772b02807c5343f4c8",
 "assets/assets/fonts/Poppins/Poppins-Black.ttf": "14d00dab1f6802e787183ecab5cce85e",
 "assets/assets/fonts/Tajawal/Tajawal-Black.ttf": "bc674767a78d2808b19a818d9742a4af",
@@ -21,6 +21,7 @@ const RESOURCES = {
 "assets/assets/images/logo.svg": "6fa792a81f0ed7793c937b77f510ac9a",
 "assets/assets/images/logout.svg": "5b269b6e876e8ab7c1489c300653573b",
 "assets/assets/images/minus-circle.svg": "a5a1fecd979e46de0f4306e3090080ec",
+"assets/assets/images/money-send.svg": "01c8ba947a60762e22f6ec0a443cddb1",
 "assets/assets/images/people.svg": "045a3f56e3f3db333e28ac94a53d8327",
 "assets/assets/images/person.svg": "b0f11eb050e8d7267746639a1cb7463c",
 "assets/assets/images/print.svg": "272e8138818048dc0ac3aa9e76839f47",
@@ -308,9 +309,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9b397be7d81ddbfc794d6678f703831b",
-"/": "9b397be7d81ddbfc794d6678f703831b",
-"main.dart.js": "0bb3a9385d7710850478c87e40a8f8d9",
+"index.html": "b753e6eeee2c5b4499c741aea631ccca",
+"/": "b753e6eeee2c5b4499c741aea631ccca",
+"main.dart.js": "bdcc7eb5d97bc33539daa874dba4be9d",
 "manifest.json": "9c903e50a5c76b5f1357f9530d1147e1",
 "version.json": "e9d62b979604329eee60bce30d853e4e"
 };
